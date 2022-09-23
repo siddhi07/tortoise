@@ -29,7 +29,7 @@ jobs:
           node-version: 16
           
       - name: Run variables.js file
-        run: |
+        run: 
           node variable.js
 
     
